@@ -18,17 +18,17 @@
 👉 The latest release of the ontology is also always available for
 download here:
 
-🔗 [github.com/KnowOntology/know-ontology/releases/latest](https://github.com/KnowOntology/know-ontology/releases/latest)
+🔗 [github.com/know-ontology/know-ontology/releases/latest](https://github.com/know-ontology/know-ontology/releases/latest)
 
 ## Release Notes
 
-🔗 [github.com/KnowOntology/know-ontology/blob/master/CHANGES.md](https://github.com/KnowOntology/know-ontology/blob/master/CHANGES.md)
+🔗 [github.com/know-ontology/know-ontology/blob/master/CHANGES.md](https://github.com/know-ontology/know-ontology/blob/master/CHANGES.md)
 
 ## License Conditions
 
-🔗 [github.com/KnowOntology/know-ontology/blob/master/LICENSE](https://github.com/KnowOntology/know-ontology/blob/master/LICENSE)
+🔗 [github.com/know-ontology/know-ontology/blob/master/LICENSE](https://github.com/know-ontology/know-ontology/blob/master/LICENSE)
 
-[![Creative Commons Zero v1.0 Universal](/assets/img/license.png)](https://github.com/KnowOntology/know-ontology/blob/master/LICENSE)
+[![Creative Commons Zero v1.0 Universal](/assets/img/license.png)](https://github.com/know-ontology/know-ontology/blob/master/LICENSE)
 
 [`know.jsonld`]: https://know.dev/know.jsonld
 [`know.nq`]: https://know.dev/know.nq

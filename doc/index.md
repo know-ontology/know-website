@@ -26,7 +26,7 @@ concepts in software design and engineering.
 
 ## Class Overview
 
-![Top-level classes](https://raw.githubusercontent.com/KnowOntology/know-ontology/master/doc/classes.png)
+![Top-level classes](https://raw.githubusercontent.com/know-ontology/know-ontology/master/doc/classes.png)
 
 ## Base URI & Prefix
 
@@ -125,5 +125,5 @@ $ wget -O- -q --header=accept:text/turtle https://know.dev/Thing
 [places]: /Place
 [Raptor RDF]: https://librdf.org/raptor/
 [RDF]: https://en.wikipedia.org/wiki/Resource_Description_Framework
-[software development kits]: /sdk/
+[software development kits]: /learn/sdk
 [SPARQL]: https://en.wikipedia.org/wiki/SPARQL

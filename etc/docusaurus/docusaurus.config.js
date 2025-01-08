@@ -22,7 +22,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "KnowOntology", // Usually your GitHub org/user name.
+  organizationName: "know-ontology", // Usually your GitHub org/user name.
   projectName: "know-website", // Usually your repo name.
 
   onBrokenLinks: "warn",
@@ -45,7 +45,7 @@ const config = {
           routeBasePath: "/", // Serve the docs at the site's root
           sidebarPath: "./sidebars.js",
           editUrl: ({ locale, versionDocsDirPath, docPath }) => {
-            return `https://github.com/KnowOntology/know-website/edit/master/doc/${docPath}`;
+            return `https://github.com/know-ontology/know-website/edit/master/doc/${docPath}`;
           },
           remarkPlugins: [
             remarkDefList,
@@ -110,7 +110,7 @@ const config = {
             position: "left",
           },
           {
-            href: "https://github.com/KnowOntology",
+            href: "https://github.com/know-ontology",
             label: "GitHub",
             position: "right",
           },
@@ -141,7 +141,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/KnowOntology/know-ontology/issues",
+                href: "https://github.com/know-ontology/know-ontology/issues",
               },
             ],
           },

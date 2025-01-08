@@ -20,7 +20,7 @@ sidebar_label: 👉 Go
 ### Installation via `go get`
 
 ```console
-$ go get -u github.com/KnowOntology/know.go/
+$ go get -u github.com/know-ontology/know.go/
 ```
 
 ## 👉 Examples
@@ -28,18 +28,18 @@ $ go get -u github.com/KnowOntology/know.go/
 ### Importing the framework
 
 ```go
-import know "github.com/KnowOntology/know.go/classes"
+import know "github.com/know-ontology/know.go/classes"
 ```
 
 ## 👨‍💻 Development
 
 ```console
-$ git clone https://github.com/KnowOntology/know.go.git
+$ git clone https://github.com/know-ontology/know.go.git
 ```
 
 ---
 
-[![Share on Twitter](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)](https://twitter.com/share?url=https://github.com/KnowOntology/know.go&text=Know.go:%20The%20Know%20Framework%20for%20Go)
-[![Share on Reddit](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://github.com/KnowOntology/know.go&title=Know.go:%20The%20Know%20Framework%20for%20Go)
-[![Share on Hacker News](https://img.shields.io/badge/share%20on-hacker%20news-orange?logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://github.com/KnowOntology/know.go&t=Know.go:%20The%20Know%20Framework%20for%20Go)
-[![Share on Facebook](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/KnowOntology/know.go)
+[![Share on Twitter](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)](https://twitter.com/share?url=https://github.com/know-ontology/know.go&text=Know.go:%20The%20Know%20Framework%20for%20Go)
+[![Share on Reddit](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://github.com/know-ontology/know.go&title=Know.go:%20The%20Know%20Framework%20for%20Go)
+[![Share on Hacker News](https://img.shields.io/badge/share%20on-hacker%20news-orange?logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://github.com/know-ontology/know.go&t=Know.go:%20The%20Know%20Framework%20for%20Go)
+[![Share on Facebook](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/know-ontology/know.go)

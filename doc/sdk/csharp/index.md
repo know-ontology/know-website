@@ -34,12 +34,12 @@ using Know;
 ## 👨‍💻 Development
 
 ```console
-$ git clone https://github.com/KnowOntology/know.cs.git
+$ git clone https://github.com/know-ontology/know.cs.git
 ```
 
 ---
 
-[![Share on Twitter](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)](https://twitter.com/share?url=https://github.com/KnowOntology/know.cs&text=Know.cs:%20The%20Know%20Framework%20for%20C%23)
-[![Share on Reddit](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://github.com/KnowOntology/know.cs&title=Know.cs:%20The%20Know%20Framework%20for%20C%23)
-[![Share on Hacker News](https://img.shields.io/badge/share%20on-hacker%20news-orange?logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://github.com/KnowOntology/know.cs&t=Know.cs:%20The%20Know%20Framework%20for%20C%23)
-[![Share on Facebook](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/KnowOntology/know.cs)
+[![Share on Twitter](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)](https://twitter.com/share?url=https://github.com/know-ontology/know.cs&text=Know.cs:%20The%20Know%20Framework%20for%20C%23)
+[![Share on Reddit](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://github.com/know-ontology/know.cs&title=Know.cs:%20The%20Know%20Framework%20for%20C%23)
+[![Share on Hacker News](https://img.shields.io/badge/share%20on-hacker%20news-orange?logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://github.com/know-ontology/know.cs&t=Know.cs:%20The%20Know%20Framework%20for%20C%23)
+[![Share on Facebook](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/know-ontology/know.cs)

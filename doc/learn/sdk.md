@@ -14,7 +14,7 @@ import TabItem from '@theme/TabItem';
 <TabItem value="c" label="C">
 
 ```console
-$ git clone https://github.com/KnowOntology/know.c.git
+$ git clone https://github.com/know-ontology/know.c.git
 $ cd know.c
 $ make && sudo make install
 ```
@@ -23,7 +23,7 @@ $ make && sudo make install
 <TabItem value="cpp" label="C++">
 
 ```console
-$ git clone https://github.com/KnowOntology/know.cpp.git
+$ git clone https://github.com/know-ontology/know.cpp.git
 $ cd know.cpp
 $ make && sudo make install
 ```
@@ -46,7 +46,7 @@ $ dart pub add know
 <TabItem value="go" label="Go">
 
 ```console
-$ go get -u github.com/KnowOntology/know.go/
+$ go get -u github.com/know-ontology/know.go/
 ```
 
 </TabItem>
@@ -135,7 +135,7 @@ import 'package:know/know.dart';
 <TabItem value="go" label="Go">
 
 ```go
-import know "github.com/KnowOntology/know.go/classes"
+import know "github.com/know-ontology/know.go/classes"
 ```
 
 </TabItem>
